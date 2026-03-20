@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">🚀 Roddy Tech</h1>
+<h3 align="center">Building Scalable Digital Products • SaaS • Infrastructure</h3>
 
-<!--
-**onlyroddytech/onlyroddytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://roddytechgroup.com">
+    <img src="https://img.shields.io/badge/🌐%20Website-RoddyTech-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:info@roddytechgroup.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-black?style=for-the-badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Who Am I?
+
+I’m not just a developer.
+
+I’m building a **tech ecosystem** designed to scale globally —  
+from SaaS platforms to digital marketplaces and cloud infrastructure.
+
+> ⚡ I ship fast, learn faster, and build things that generate value.
+
+---
+
+## 🏢 Roddy Technologies Ecosystem
+
+| Product | Description |
+|--------|------------|
+| 🛒 **RShop** | Multi-vendor marketplace (digital + physical products) |
+| 🌐 **RTG Domains** | Domain reseller platform |
+| ☁️ **RHostitCloud** | Hosting infrastructure system |
+| 🚚 **FastCloudShipments** | Logistics SaaS platform |
+| 🤖 **RODDY AI** | AI assistant (voice + automation) |
+
+---
+
+## ⚙️ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,js,ts,react,nextjs,nodejs,laravel,mysql,mongodb,git,github,tailwind" />
+
+</p>
+
+---
+
+## 📊 Performance & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧭 Current Mission
+
+- 🚀 Scale Roddy Technologies into a global brand  
+- 💰 Build profitable SaaS systems  
+- 🌍 Expand into international markets  
+- 🤝 Partner with serious builders  
+
+---
+
+## 🧠 Mindset
+
+```text
+Build > Talk
+Execute > Plan
+Systems > Hustle
+Value > Noise

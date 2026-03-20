@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060010,30:0d0d2b,70:0a1628,100:060010&height=220&section=header&text=DIVINE%20OFEH&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Known%20as%20Roddy%20Tech%20%E2%80%94%20Building%20Scalable%20Digital%20Products&descAlignY=56&descSize=15&descColor=7dd3fc&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060010,30:0d0d2b,70:0a1628,100:060010&height=220&section=header&text=RODDY%20TECH&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Known%20as%20Divine%20Ofeh%20%E2%80%94%20Building%20Scalable%20Digital%20Products&descAlignY=56&descSize=15&descColor=7dd3fc&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/onlyroddytech">
@@ -58,7 +58,8 @@ const DivineOfeh = {
 > ***"I'm not just a developer I'm building a tech ecosystem designed to scale globally,***
 > ***from SaaS platforms to digital marketplaces and cloud infrastructure."***
 
-&nbsp;&nbsp;I ship fast, learn faster, and build things that generate value and bring revenue.
+&nbsp;&nbsp;I ship fast, learn faster, and build things that generate value and bring revenue.<br>
+&nbsp;&nbsp;Focused on building production-ready systems using modern technologies.
 
 <br/>
 

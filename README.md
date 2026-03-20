@@ -49,8 +49,8 @@ from SaaS platforms to digital marketplaces and cloud infrastructure.
 ## 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onlyroddytech&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onlyroddytech&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -58,7 +58,7 @@ from SaaS platforms to digital marketplaces and cloud infrastructure.
 ## 📈 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onlyroddytech&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -68,13 +68,15 @@ from SaaS platforms to digital marketplaces and cloud infrastructure.
 - 🚀 Scale Roddy Technologies into a global brand  
 - 💰 Build profitable SaaS systems  
 - 🌍 Expand into international markets  
-- 🤝 Partner with serious builders  
+- 🤝 Partner with serious builders
+- 📲 I wish to handle your next work or work with you please🙏🏻🤲🏻🛐  
 
 ---
 
 ## 🧠 Mindset
 
 ```text
+My Best Works?> Are in my Org and Private 🤣
 Build > Talk
 Execute > Plan
 Systems > Hustle

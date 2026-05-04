@@ -199,7 +199,7 @@ mode    ::  build, ship, iterate
 
 ---
 
-## 07 &nbsp;//&nbsp; Mission, FY 2026
+## 07 &nbsp;&nbsp; Mission, FY 2026
 
 <div align="center">
 

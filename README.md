@@ -27,7 +27,7 @@
 
 ---
 
-## 01 &nbsp;&nbsp; Identity
+## 01 &nbsp;//&nbsp; Identity
 
 ```ts
 const Divine = {
@@ -50,7 +50,7 @@ const Divine = {
 
 ---
 
-## 02 &nbsp;&nbsp; Ecosystem
+## 02 &nbsp;//&nbsp; Ecosystem
 
 <div align="center">
 
@@ -103,11 +103,11 @@ const Divine = {
 
 ---
 
-## 03 &nbsp;&nbsp; Stack
+## 03 &nbsp;//&nbsp; Stack
 
 <div align="center">
 
-` core`
+`// core`
 
 ![PHP](https://img.shields.io/badge/PHP-030014?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-030014?style=for-the-badge&logo=laravel&logoColor=FF2D20)
@@ -117,7 +117,7 @@ const Divine = {
 ![Next.js](https://img.shields.io/badge/Next.js-030014?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-030014?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
-` data + infra`
+`// data + infra`
 
 ![MySQL](https://img.shields.io/badge/MySQL-030014?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-030014?style=for-the-badge&logo=redis&logoColor=DC382D)
@@ -126,7 +126,7 @@ const Divine = {
 ![Nginx](https://img.shields.io/badge/Nginx-030014?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-030014?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
-` tooling`
+`// tooling`
 
 ![Git](https://img.shields.io/badge/Git-030014?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-030014?style=for-the-badge&logo=github&logoColor=ffffff)
@@ -141,7 +141,7 @@ const Divine = {
 
 ---
 
-## 04 &nbsp;&nbsp; Signal
+## 04 &nbsp;//&nbsp; Signal
 
 <div align="center">
 
@@ -163,7 +163,7 @@ const Divine = {
 
 ---
 
-## 05 &nbsp;&nbsp; Now Building
+## 05 &nbsp;//&nbsp; Now Building
 
 ```bash
 $ roddy --status
@@ -183,15 +183,15 @@ mode    ::  build, ship, iterate
 
 ---
 
-## 06 &nbsp;&nbsp; Now Playing
+## 06 &nbsp;//&nbsp; Recently Played
 
 <div align="center">
 
 <a href="https://open.spotify.com/user/31a6qqwsskv3zuim34zxy3fmudea">
-  <img src="https://YOUR-VERCEL-DEPLOYMENT.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a6qqwsskv3zuim34zxy3fmudea&count=5&unique=true" alt="Recently played on Spotify" />
 </a>
 
-<sub>Live from my headphones. Auto-updates on refresh.</sub>
+<sub>What is on rotation while I ship.</sub>
 
 </div>
 
@@ -199,7 +199,7 @@ mode    ::  build, ship, iterate
 
 ---
 
-## 07 &nbsp;&nbsp; Mission, FY 2026
+## 07 &nbsp;//&nbsp; Mission, FY 2026
 
 <div align="center">
 
@@ -225,7 +225,7 @@ mode    ::  build, ship, iterate
 
 ---
 
-## 08 &nbsp;&nbsp; Mindset
+## 08 &nbsp;//&nbsp; Mindset
 
 <div align="center">
 
@@ -247,7 +247,7 @@ mode    ::  build, ship, iterate
 
 ---
 
-## 09 &nbsp;&nbsp; Connect
+## 09 &nbsp;//&nbsp; Connect
 
 <div align="center">
 

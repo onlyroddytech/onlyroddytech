@@ -21,7 +21,7 @@
 
 I am a young African full-stack engineer and founder building **Roddy Technologies Group**, a software house shipping SaaS, marketplaces, cloud infra, logistics, banking, custom tools, and live communication systems.
 
-I do not chase tools. I build **systems** that compound. Production-grade software that drives real revenue, not portfolio fluff. **I build for me first.** I am a lover of my craft. My code, my craft, my work of art.
+I do not chase tools. I build **systems** that compound. Production-grade software that drives real revenue, not portfolio fluff. **I build for me first.** I am a lover of My code, my craft, my work of art.
 
 *I can work your way and my way until we ship something that matters, not just exist.*
 

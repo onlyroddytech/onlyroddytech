@@ -1,27 +1,28 @@
 <div align="center">
 
 <a href="https://github.com/onlyroddytech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&duration=2800&color=3B82F6&center=true&vCenter=true&width=860&height=80&lines=I+am+Divine+Ofeh+%5Co%2F;Founder+%C2%B7+Full-Stack+Engineer;I+build+systems+that+compound;Code.+Ship.+Iterate.+Scale." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&duration=2800&color=3B82F6&center=true&vCenter=true&width=860&height=80&lines=I+am+Divine+Ofeh+%5Co%2F;Founder+%C2%B7+Full-Stack+Engineer;RshopRefill+B2C+%2B+Roddy+Technologies+B2B;Code.+Ship.+Iterate.+Scale." alt="typing" />
 </a>
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=onlyroddytech&label=Profile%20Views&color=3b82f6&style=for-the-badge)](https://github.com/onlyroddytech)
-[![Website](https://img.shields.io/badge/Website-3b82f6?style=for-the-badge&logo=safari&logoColor=white&labelColor=1e293b)](https://roddytechnologies.com)
-[![Mail](https://img.shields.io/badge/Mail-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b)](mailto:dev@roddytechnologies.com)
+[![Website](https://img.shields.io/badge/Website-3b82f6?style=for-the-badge&logo=safari&logoColor=ffffff&labelColor=000000)](https://roddytechnologies.com)
+[![Mail](https://img.shields.io/badge/Mail-3b82f6?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](mailto:dev@roddytechnologies.com)
 
 <br/>
 
-[![Location](https://img.shields.io/badge/Location-Cameroon-3b82f6?style=for-the-badge&labelColor=1e293b)](https://github.com/onlyroddytech)
-[![Focus](https://img.shields.io/badge/Focus-SaaS_%2B_Marketplaces-3b82f6?style=for-the-badge&labelColor=1e293b)](https://github.com/onlyroddytech)
-[![Stack](https://img.shields.io/badge/Stack-Laravel_%2B_PHP_%2B_JS-3b82f6?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1e293b)](https://github.com/onlyroddytech)
-[![Status](https://img.shields.io/badge/Status-Shipping_Daily-22c55e?style=for-the-badge&labelColor=1e293b)](https://github.com/onlyroddytech)
+[![Location](https://img.shields.io/badge/Location-Cameroon-3b82f6?style=for-the-badge&labelColor=000000)](https://github.com/onlyroddytech)
+[![Focus](https://img.shields.io/badge/Focus-B2C_Marketplace_%2B_B2B_Software-3b82f6?style=for-the-badge&labelColor=000000)](https://github.com/onlyroddytech)
+[![Stack](https://img.shields.io/badge/Stack-Laravel_%2B_React_19_%2B_Framer_Motion-3b82f6?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=000000)](https://github.com/onlyroddytech)
+[![Status](https://img.shields.io/badge/Status-Shipping_Daily-3b82f6?style=for-the-badge&labelColor=000000)](https://github.com/onlyroddytech)
 
 <br/>
 
-I am a young African full-stack engineer and founder building **Roddy Technologies Group**, a software house shipping SaaS, marketplaces, cloud infra, logistics, banking, custom tools, and live communication systems.
+I am a young African full-stack engineer and founder. Everything I build now runs on two arms:
+**[RshopRefill](https://rshoprefill.com)** on the consumer side, and **[Roddy Technologies Ltd](https://roddytechnologies.com)** (RLabs) on the business side.
 
-I do not chase tools. I build **systems** that compound. Production-grade software that drives real revenue, not portfolio fluff. **I build for me first.** I am a lover of My code, my craft, my work of art.
+I do not chase tools. I build **systems** that compound. Production-grade software that drives real revenue, not portfolio fluff. **I build for me first.** I am a lover of my code, my craft, my work of art.
 
 *I can work your way and my way until we ship something that matters, not just exist.*
 
@@ -31,11 +32,11 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
 
 ## About Me
 
-- Full-stack engineer working primarily in **PHP, Laravel, Blade, Tailwind CSS, JavaScript, and MySQL**.
-- Founder of [**Roddy Technologies Group**](https://roddytechnologies.com), shipping commercial software in Cameroon and globally.
+- Full-stack engineer working primarily in **PHP, Laravel, Livewire, TypeScript, React, Next.js, Tailwind CSS, MySQL, and Redis**.
+- Ship mobile with **Flutter** and **React Native**, motion with **Framer Motion**, delivery with **Resend**, and observability with **Sentry**.
+- Founder of [**Roddy Technologies Ltd**](https://roddytechnologies.com), shipping commercial software in Cameroon and globally.
+- Two products, one system: **RshopRefill** sells to consumers, **RLabs** builds for businesses and gives developers a workspace to run their projects.
 - Builder mindset: ship daily, iterate fast, monetize what works.
-- Hardware and workspace enthusiast. Strong belief that good tools produce good output.
-- Active in client work, building commercial websites and recurring delivery systems.
 - Always exploring new stacks, AI tooling, and automation to compound output.
 - *My best work lives in private repos. Real products ship, not just commits.*
 
@@ -48,8 +49,8 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
 <table>
   <thead>
     <tr>
-      <th align="left">Product / Service</th>
-      <th align="left">Layer</th>
+      <th align="left">Product</th>
+      <th align="center">Market</th>
       <th align="left">What It Does</th>
       <th align="center">Status</th>
     </tr>
@@ -57,45 +58,15 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
   <tbody>
     <tr>
       <td><a href="https://rshoprefill.com"><strong>RshopRefill</strong></a></td>
-      <td><img src="https://img.shields.io/badge/Marketplace-1e293b?style=flat-square&logo=shopify&logoColor=3b82f6"/></td>
-      <td>Multi-vendor refill and digital products marketplace</td>
-      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-22c55e?style=flat-square"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/B2C-000000?style=flat-square&logo=shopify&logoColor=3b82f6"/></td>
+      <td>Digital marketplace: eSIMs, gift cards, top ups, bill payments, flights and stays</td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=flat-square"/></td>
     </tr>
     <tr>
-      <td><strong>RTG Domains</strong></td>
-      <td><img src="https://img.shields.io/badge/Infra-1e293b?style=flat-square&logo=cloudflare&logoColor=3b82f6"/></td>
-      <td>Domain reseller and DNS management platform</td>
-      <td align="center"><img src="https://img.shields.io/badge/DEV-3b82f6?style=flat-square"/></td>
-    </tr>
-    <tr>
-      <td><strong>RHostit Cloud</strong></td>
-      <td><img src="https://img.shields.io/badge/Hosting-1e293b?style=flat-square&logo=amazonwebservices&logoColor=3b82f6"/></td>
-      <td>Scalable cloud hosting infrastructure</td>
-      <td align="center"><img src="https://img.shields.io/badge/DEV-3b82f6?style=flat-square"/></td>
-    </tr>
-    <tr>
-      <td><strong>Talkiq</strong></td>
-      <td><img src="https://img.shields.io/badge/Live%20Chat-1e293b?style=flat-square&logo=rocketdotchat&logoColor=3b82f6"/></td>
-      <td>Embeddable real-time live chat for websites</td>
-      <td align="center"><img src="https://img.shields.io/badge/DEV-3b82f6?style=flat-square"/></td>
-    </tr>
-    <tr>
-      <td><strong>Logistics Websites</strong></td>
-      <td><img src="https://img.shields.io/badge/Service-1e293b?style=flat-square&logo=fedex&logoColor=3b82f6"/></td>
-      <td>Custom logistics and shipping platforms for clients</td>
-      <td align="center"><img src="https://img.shields.io/badge/LIVE%20%2F%20DEV-22c55e?style=flat-square"/></td>
-    </tr>
-    <tr>
-      <td><strong>Banking Websites</strong></td>
-      <td><img src="https://img.shields.io/badge/Service-1e293b?style=flat-square&logo=mastercard&logoColor=3b82f6"/></td>
-      <td>Custom banking, fintech, and payment platforms</td>
-      <td align="center"><img src="https://img.shields.io/badge/LIVE%20%2F%20DEV-22c55e?style=flat-square"/></td>
-    </tr>
-    <tr>
-      <td><strong>Custom Websites &amp; Apps</strong></td>
-      <td><img src="https://img.shields.io/badge/Service-1e293b?style=flat-square&logo=codeigniter&logoColor=3b82f6"/></td>
-      <td>Available for hire. Let me know, we get the dev work started.</td>
-      <td align="center"><a href="mailto:dev@roddytechnologies.com"><img src="https://img.shields.io/badge/LET'S%20BUILD-3b82f6?style=for-the-badge"/></a></td>
+      <td><a href="https://roddytechnologies.com"><strong>Roddy Technologies Ltd</strong></a><br/><sub>RLabs</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/B2B-000000?style=flat-square&logo=cloudflare&logoColor=3b82f6"/></td>
+      <td>Developer workspace for project development and management, plus domains, hosting, Roddy AI, and digital product APIs</td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8B%20IN%20DEV-000000?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
@@ -104,81 +75,161 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
 
 <br/>
 
-## Stack
+## What RLabs Delivers
 
 <div align="center">
 
-`core`
-
-![PHP](https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-1e293b?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Blade](https://img.shields.io/badge/Blade-1e293b?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1e293b?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=4479A1)
-
-`also work with`
-
-![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=339933)
-![WordPress](https://img.shields.io/badge/WordPress-1e293b?style=flat-square&logo=wordpress&logoColor=21759B)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-1e293b?style=flat-square&logo=woocommerce&logoColor=96588A)
-
-`infra`
-
-![Linux](https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-1e293b?style=flat-square&logo=nginx&logoColor=009639)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-1e293b?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Redis](https://img.shields.io/badge/Redis-1e293b?style=flat-square&logo=redis&logoColor=DC382D)
-
-`tooling`
-
-![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VSCode-1e293b?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-1e293b?style=flat-square&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-1e293b?style=flat-square&logo=figma&logoColor=F24E1E)
+<table>
+  <thead>
+    <tr>
+      <th align="left">Line</th>
+      <th align="left">Scope</th>
+      <th align="center">Built For</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project Development</strong></td>
+      <td>Custom web and mobile builds, marketplaces, fintech, logistics, internal tools</td>
+      <td align="center">Businesses, startups</td>
+    </tr>
+    <tr>
+      <td><strong>Developer Workspace</strong></td>
+      <td>Run projects end to end: builds, deployments, domains, hosting, API keys, billing, in one place</td>
+      <td align="center">Developers, teams</td>
+    </tr>
+    <tr>
+      <td><strong>Domains</strong></td>
+      <td>Registration, transfers, DNS management</td>
+      <td align="center">Everyone</td>
+    </tr>
+    <tr>
+      <td><strong>Hosting</strong></td>
+      <td>Managed cloud hosting, VPS, deployment, SSL, monitoring</td>
+      <td align="center">Businesses, developers</td>
+    </tr>
+    <tr>
+      <td><strong>Roddy AI</strong></td>
+      <td>AI tooling and automation layered into products and workflows</td>
+      <td align="center">Businesses, students</td>
+    </tr>
+    <tr>
+      <td><strong>Developer APIs</strong></td>
+      <td>eSIMs, gift cards, top ups, bill payments, flights and stays</td>
+      <td align="center">Developers, resellers</td>
+    </tr>
+    <tr>
+      <td><strong>Student Support</strong></td>
+      <td>Project builds, mentorship, affordable infrastructure</td>
+      <td align="center">Students</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 <br/>
 
-## My Setup
+## Developer APIs
 
 <div align="center">
 
-<a href="https://github.com/onlyroddytech">
-  <img src="https://github.com/onlyroddytech/onlyroddytech/raw/main/setup.jpeg" alt="My Setup" />
-</a>
-
-<sub>The cockpit. Where I ship.</sub>
-
-<br/><br/>
-
-| Component | Details |
-|:---:|:---:|
-| ![CPU](https://img.shields.io/badge/CPU-1e293b?style=flat-square) | ![CPU](https://img.shields.io/badge/Asus_Intel_i7--8700_%403.20GHz-3b82f6?style=flat-square&logo=intel&logoColor=ffffff) |
-| ![RAM](https://img.shields.io/badge/RAM-1e293b?style=flat-square) | ![RAM](https://img.shields.io/badge/64_GB-3b82f6?style=flat-square) |
-| ![GPU](https://img.shields.io/badge/GPU-1e293b?style=flat-square) | ![GPU](https://img.shields.io/badge/GeForce_24_GB-3b82f6?style=flat-square&logo=nvidia&logoColor=ffffff) |
-| ![Storage](https://img.shields.io/badge/Storage-1e293b?style=flat-square) | ![Storage](https://img.shields.io/badge/2.48_TB-3b82f6?style=flat-square) |
-| ![Laptop](https://img.shields.io/badge/Laptop-1e293b?style=flat-square) | ![Laptop](https://img.shields.io/badge/HP_EliteBook_Slim_·_i5_·_16GB_·_Pen%2BTouch-3b82f6?style=flat-square&logo=hp&logoColor=ffffff) |
-| ![Display 1](https://img.shields.io/badge/Display_1-1e293b?style=flat-square) | ![Display 1](https://img.shields.io/badge/Viotech_Ultrawide_Borderless_Curve-3b82f6?style=flat-square) |
-| ![Display 2](https://img.shields.io/badge/Display_2-1e293b?style=flat-square) | ![Display 2](https://img.shields.io/badge/Lenovo_ThinkPad_24%22_·_Portrait-3b82f6?style=flat-square&logo=lenovo&logoColor=ffffff) |
-| ![Lighting](https://img.shields.io/badge/Lighting-1e293b?style=flat-square) | ![Lighting](https://img.shields.io/badge/RGB_Monitor_LED_Bar-3b82f6?style=flat-square) |
-| ![Keyboard](https://img.shields.io/badge/Keyboard-1e293b?style=flat-square) | ![Keyboard](https://img.shields.io/badge/Free_Wolf_M96_·_Soft_Quiet_·_RGB-3b82f6?style=flat-square) |
-| ![Spare KB](https://img.shields.io/badge/Spare_KB-1e293b?style=flat-square) | ![Spare](https://img.shields.io/badge/Red_Thunder_M84-3b82f6?style=flat-square) |
-| ![Mouse](https://img.shields.io/badge/Mouse-1e293b?style=flat-square) | ![Mouse](https://img.shields.io/badge/Red_Thunder_M84_Gaming-3b82f6?style=flat-square) |
-| ![Mousepad](https://img.shields.io/badge/Mousepad-1e293b?style=flat-square) | ![Mousepad](https://img.shields.io/badge/Windows_·_Word_·_Excel_·_PPT_Shortcuts-3b82f6?style=flat-square) |
-| ![Controllers](https://img.shields.io/badge/Controllers-1e293b?style=flat-square) | ![Controllers](https://img.shields.io/badge/PS5_White_%2B_Xbox_Velocity_Green-3b82f6?style=flat-square&logo=playstation&logoColor=ffffff) |
-| ![Headsets](https://img.shields.io/badge/Headsets-1e293b?style=flat-square) | ![Headsets](https://img.shields.io/badge/Oraimo_·_JoyRoom_JH2_·_Menzu_Wired-3b82f6?style=flat-square) |
-| ![OS](https://img.shields.io/badge/OS-1e293b?style=flat-square) | ![OS](https://img.shields.io/badge/Windows_11_Pro-3b82f6?style=flat-square&logo=windows11&logoColor=ffffff) |
-| ![Editor](https://img.shields.io/badge/Editor-1e293b?style=flat-square) | ![Editor](https://img.shields.io/badge/VS_Code-3b82f6?style=flat-square&logo=visualstudiocode&logoColor=ffffff) |
-| ![Terminal](https://img.shields.io/badge/Terminal-1e293b?style=flat-square) | ![Terminal](https://img.shields.io/badge/Windows_Terminal-3b82f6?style=flat-square&logo=windowsterminal&logoColor=ffffff) |
+Sell the same digital products RshopRefill sells, from your own app.
 
 </div>
+
+```bash
+$ roddy api --products
+
+esims       ::  global and regional data plans, instant activation
+giftcards   ::  global and regional brand catalogue
+topups      ::  airtime and mobile data
+bills       ::  utilities, subscriptions, services
+flights     ::  search, book, ticket
+stays       ::  hotels and accommodation
+
+auth        ::  bearer token
+transport   ::  REST + JSON, webhook callbacks
+settlement  ::  wallet balance, mobile money, crypto
+access      ::  dev@roddytechnologies.com
+```
+
+<div align="center">
+
+[![Request API Access](https://img.shields.io/badge/REQUEST%20API%20ACCESS-3b82f6?style=for-the-badge&logoColor=ffffff)](mailto:dev@roddytechnologies.com)
+
+</div>
+
+<br/>
+
+## Stack
+
+`backend`
+
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Livewire](https://img.shields.io/badge/Livewire-000000?style=flat-square&logo=livewire&logoColor=FB70A9)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D)
+
+`frontend`
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Blade](https://img.shields.io/badge/Blade-000000?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-000000?style=flat-square&logo=alpinedotjs&logoColor=8BC0D0)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=0055FF)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=646CFF)
+
+`mobile`
+
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=29B6F6)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=ffffff)
+
+`infra & ci`
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=009639)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
+
+`services`
+
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=ffffff)
+![Sentry](https://img.shields.io/badge/Sentry-000000?style=flat-square&logo=sentry&logoColor=964ED2)
+![Stripe](https://img.shields.io/badge/Stripe-000000?style=flat-square&logo=stripe&logoColor=635BFF)
+![Flutterwave](https://img.shields.io/badge/Flutterwave-000000?style=flat-square&logoColor=F5A623)
+![NowPayments](https://img.shields.io/badge/NowPayments-000000?style=flat-square&logoColor=3b82f6)
+![Mobile Money](https://img.shields.io/badge/Mobile_Money-000000?style=flat-square&logoColor=facc15)
+
+`ai`
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-000000?style=flat-square&logo=anthropic&logoColor=D97757)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
+![Roddy AI](https://img.shields.io/badge/Roddy_AI-3b82f6?style=flat-square&logoColor=ffffff)
+
+`cms`
+
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=21759B)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-000000?style=flat-square&logo=woocommerce&logoColor=96588A)
+
+`tooling`
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=flat-square&logo=google&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
 
 <br/>
 
@@ -198,23 +249,19 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
 
 ## Now Building
 
-
 ```bash
 $ roddy --status
 
-[live]    RshopRefill.com         ::  Multi-vendor refill marketplace, scaling vendors
-[dev]     RTG Domains             ::  Domain reseller and DNS management platform
-[dev]     RHostit Cloud           ::  Cloud hosting infrastructure
-[dev]     Talkiq                  ::  Embeddable real-time live chat for websites
-[active]  Logistics websites      ::  Custom builds for shipping clients
-[active]  Banking websites        ::  Custom fintech and banking platforms
-[open]    Custom websites & apps  ::  Open for new projects, let's build
+[live]    RshopRefill (B2C)             ::  digital marketplace, scaling users and volume
+[dev]     Roddy Technologies Ltd (B2B)  ::  developer workspace, client builds, domains, hosting
+[dev]     Roddy AI                      ::  AI tooling and automation across the stack
+[dev]     Developer APIs                ::  esims, giftcards, topups, bills, flights, stays
+[open]    Client projects               ::  businesses, startups, students, developers
 
+focus   ::  two arms, one system
 uptime  ::  shipping daily
 mode    ::  build, ship, iterate
 ```
-
-
 
 <br/>
 
@@ -222,17 +269,17 @@ mode    ::  build, ship, iterate
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=onlyroddytech&show_icons=true&theme=transparent&bg_color=00000000&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0&border_color=1e293b&hide_border=false&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=onlyroddytech&show_icons=true&theme=transparent&bg_color=00000000&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&border_color=000000&hide_border=false&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyroddytech&layout=compact&theme=transparent&bg_color=00000000&title_color=3b82f6&text_color=e2e8f0&border_color=1e293b&hide_border=false&langs_count=8&custom_title=Languages" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyroddytech&layout=compact&theme=transparent&bg_color=00000000&title_color=3b82f6&text_color=ffffff&border_color=000000&hide_border=false&langs_count=8&custom_title=Languages" />
 
 <br/><br/>
 
-[![Streak](https://streak-stats.demolab.com?user=onlyroddytech&theme=transparent&background=00000000&border=1e293b&stroke=1e293b&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=64748b&v=2)](https://github.com/onlyroddytech)
+[![Streak](https://streak-stats.demolab.com?user=onlyroddytech&theme=transparent&background=00000000&border=000000&stroke=000000&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3b82f6&sideLabels=ffffff&dates=ffffff&v=2)](https://github.com/onlyroddytech)
 
 <br/>
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=onlyroddytech&bg_color=00000000&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=false&border_color=1e293b&radius=8&custom_title=Contribution%20Activity)](https://github.com/onlyroddytech)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=onlyroddytech&bg_color=00000000&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=false&border_color=000000&radius=8&custom_title=Contribution%20Activity)](https://github.com/onlyroddytech)
 
 </div>
 
@@ -240,17 +287,15 @@ mode    ::  build, ship, iterate
 
 ## Mission, FY 2026
 
-
 ```
-01.  Scale Roddy Technologies into a recognised global brand
-02.  Push profitable SaaS systems with real, paying traction
-03.  Expand into international markets and global clients
-04.  Partner with serious, execution-focused builders
-05.  Launch Talkiq live chat platform MVP
-06.  Deliver, monitor, and retain more client websites
+01.  Scale RshopRefill volume and repeat buyers on the B2C side
+02.  Grow Roddy Technologies Ltd into a dependable B2B software partner
+03.  Ship Developer APIs and onboard the first paying integrators
+04.  Launch Roddy AI into client products and internal workflows
+05.  Deliver, monitor, and retain more client projects
+06.  Expand into international markets and global clients
 07.  Compound revenue through systems, not hustle
 ```
-
 
 <br/>
 
@@ -258,15 +303,15 @@ mode    ::  build, ship, iterate
 
 <div align="center">
 
-I am open to serious collaborations, partnerships, and global builders who execute.<br/>
-Logistics, banking, marketplaces, custom apps, anything that ships and pays.
+Open to serious collaborations, partnerships, and global builders who execute.<br/>
+Custom projects, API integrations, hosting, domains, anything that ships and pays.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/dev%40roddytechnologies.com-1e293b?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:dev@roddytechnologies.com)
-[![WhatsApp](https://img.shields.io/badge/+237%20676%20700%20173-1e293b?style=for-the-badge&logo=whatsapp&logoColor=22c55e)](https://wa.me/237676700173)
-[![Website](https://img.shields.io/badge/roddytechnologies.com-1e293b?style=for-the-badge&logo=safari&logoColor=3b82f6)](https://roddytechnologies.com)
-[![GitHub](https://img.shields.io/badge/@onlyroddytech-1e293b?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/onlyroddytech)
+[![Email](https://img.shields.io/badge/dev%40roddytechnologies.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:dev@roddytechnologies.com)
+[![WhatsApp](https://img.shields.io/badge/+237%20676%20700%20173-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/237676700173)
+[![Website](https://img.shields.io/badge/roddytechnologies.com-000000?style=for-the-badge&logo=safari&logoColor=ffffff)](https://roddytechnologies.com)
+[![GitHub](https://img.shields.io/badge/@onlyroddytech-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/onlyroddytech)
 
 </div>
 
@@ -276,10 +321,10 @@ Logistics, banking, marketplaces, custom apps, anything that ships and pays.
 
 <div align="center">
 
-<sub><strong>Divine Ofeh</strong> &nbsp;·&nbsp; Roddy Tech &nbsp;·&nbsp; Roddy Technologies Group &copy; 2026</sub>
+<sub><strong>Divine Ofeh</strong> &nbsp;·&nbsp; Roddy Tech &nbsp;·&nbsp; Roddy Technologies Ltd &copy; 2026</sub>
 
 <br/>
 
-<sub><i>Updated on</i> <code>2026-05-21</code></sub>
+<sub><i>Updated on</i> <code>2026-08-01</code></sub>
 
 </div>

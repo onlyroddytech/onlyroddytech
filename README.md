@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=onlyroddytech&label=Profile%20Views&color=3b82f6&style=for-the-badge)](https://github.com/onlyroddytech)
 [![Website](https://img.shields.io/badge/Website-3b82f6?style=for-the-badge&logo=safari&logoColor=ffffff&labelColor=000000)](https://roddytechnologies.com)
-[![Mail](https://img.shields.io/badge/Mail-3b82f6?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](mailto:dev@roddytechnologies.com)
+[![Mail](https://img.shields.io/badge/Mail-3b82f6?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](mailto:divine@roddytechnologies.com)
 
 <br/>
 
@@ -151,12 +151,12 @@ stays       ::  hotels and accommodation
 auth        ::  bearer token
 transport   ::  REST + JSON, webhook callbacks
 settlement  ::  wallet balance, mobile money, crypto
-access      ::  dev@roddytechnologies.com
+access      ::  hello@roddytechnologies.com
 ```
 
 <div align="center">
 
-[![Request API Access](https://img.shields.io/badge/REQUEST%20API%20ACCESS-3b82f6?style=for-the-badge&logoColor=ffffff)](mailto:dev@roddytechnologies.com)
+[![Request API Access](https://img.shields.io/badge/REQUEST%20API%20ACCESS-3b82f6?style=for-the-badge&logoColor=ffffff)](mailto:hello@roddytechnologies.com)
 
 </div>
 
@@ -308,8 +308,10 @@ Custom projects, API integrations, hosting, domains, anything that ships and pay
 
 <br/>
 
-[![Email](https://img.shields.io/badge/dev%40roddytechnologies.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:dev@roddytechnologies.com)
+[![CEO Email](https://img.shields.io/badge/divine%40roddytechnologies.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:divine@roddytechnologies.com)
+[![Official Email](https://img.shields.io/badge/hello%40roddytechnologies.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:hello@roddytechnologies.com)
 [![WhatsApp](https://img.shields.io/badge/+237%20676%20700%20173-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/237676700173)
+[![Global Contact](https://img.shields.io/badge/+1%20940%20238%206229-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/19402386229)
 [![Website](https://img.shields.io/badge/roddytechnologies.com-000000?style=for-the-badge&logo=safari&logoColor=ffffff)](https://roddytechnologies.com)
 [![GitHub](https://img.shields.io/badge/@onlyroddytech-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/onlyroddytech)
 
@@ -325,6 +327,6 @@ Custom projects, API integrations, hosting, domains, anything that ships and pay
 
 <br/>
 
-<sub><i>Updated on</i> <code>2026-08-01</code></sub>
+<sub><i>Updated on</i> <code>2026-08-14</code></sub>
 
 </div>

@@ -52,7 +52,7 @@ Roddy Labs as a connected workspace for building and managing digital projects. 
 Because each part strengthens the others. RShopRefill provides the consumer distribution layer and the supplier relationships. Roddy Labs provides the operational, infrastructure, development, and B2B layer. Roddy AI provides assistance and automation across both. Shared technology, supplier integrations, infrastructure, and operational knowledge compound over time instead of being rebuilt per project.
 
 **How do I get in touch?**
-Founder and CEO **Divine Ofeh** — [divine@roddytechnologies.com](mailto:divine@roddytechnologies.com) · +237 676 700 173. Company enquiries — [hello@roddytechnologies.com](mailto:hello@roddytechnologies.com). Full details in [Contact](#contact).
+Founder and CEO **Divine Ofeh** at [divine@roddytechnologies.com](mailto:divine@roddytechnologies.com) or +237 676 700 173. Company enquiries go to [hello@roddytechnologies.com](mailto:hello@roddytechnologies.com). Full details in [Contact](#contact).
 
 <br/>
 
@@ -483,7 +483,7 @@ We are building this deliberately, in a market we understand, from inside it. If
 
 ## About the Founder
 
-**Divine Ofeh** — Founder and CEO, Roddy Technologies Ltd.
+**Divine Ofeh**, Founder and CEO of Roddy Technologies Ltd.
 
 - Full-stack engineer working primarily in **PHP, Laravel, Livewire, TypeScript, React, Next.js, Tailwind CSS, MySQL, and Redis**.
 - Ships mobile with **Flutter** and **React Native**, motion with **Framer Motion**, delivery with **Resend**, and observability with **Sentry**.
@@ -616,7 +616,7 @@ Custom software, integrations, hosting, domains, and long-term technology partne
 
 <br/>
 
-**Founder and CEO — Divine Ofeh**
+**Divine Ofeh, Founder and CEO**
 
 [![CEO Email](https://img.shields.io/badge/divine%40roddytechnologies.com-060607?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:divine@roddytechnologies.com)
 [![CEO WhatsApp](https://img.shields.io/badge/+237%20676%20700%20173-060607?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/237676700173)

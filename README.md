@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://roddytechnologies.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&duration=2800&color=3B82F6&background=060607&center=true&vCenter=true&width=860&height=80&lines=I+am+Divine+Ofeh+%5Co%2F;Founder+%C2%B7+Roddy+Technologies+Ltd;Roddy+Labs+%C2%B7+Roddy+AI+%C2%B7+RShopRefill;Code.+Ship.+Iterate.+Scale." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&duration=2800&color=3B82F6&background=060607&center=true&vCenter=true&width=860&height=80&lines=I+am+Divine+Ofeh;Founder+%C2%B7+Roddy+Technologies+Ltd;Roddy+Labs+%C2%B7+Roddy+AI+%C2%B7+RShopRefill;Code.+Ship.+Iterate.+Scale." alt="typing" />
 </a>
 
 <br/>

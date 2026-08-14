@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/onlyroddytech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&duration=2800&color=3B82F6&center=true&vCenter=true&width=860&height=80&lines=I+am+Divine+Ofeh+%5Co%2F;Founder+%C2%B7+Full-Stack+Engineer;RshopRefill+B2C+%2B+Roddy+Technologies+B2B;Code.+Ship.+Iterate.+Scale." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&duration=2800&color=3B82F6&center=true&vCenter=true&width=860&height=80&lines=I+am+Divine+Ofeh+%5Co%2F;Founder+%C2%B7+Full-Stack+Engineer;Roddy+Technologies+B2B+%2B+RshopRefill+B2C;Code.+Ship.+Iterate.+Scale." alt="typing" />
 </a>
 
 <br/>
@@ -13,14 +13,14 @@
 <br/>
 
 [![Location](https://img.shields.io/badge/Location-Cameroon-3b82f6?style=for-the-badge&labelColor=000000)](https://github.com/onlyroddytech)
-[![Focus](https://img.shields.io/badge/Focus-B2C_Marketplace_%2B_B2B_Software-3b82f6?style=for-the-badge&labelColor=000000)](https://github.com/onlyroddytech)
+[![Focus](https://img.shields.io/badge/Focus-B2B_Software_%2B_B2C_Marketplace-3b82f6?style=for-the-badge&labelColor=000000)](https://github.com/onlyroddytech)
 [![Stack](https://img.shields.io/badge/Stack-Laravel_%2B_React_19_%2B_Framer_Motion-3b82f6?style=for-the-badge&logo=laravel&logoColor=ffffff&labelColor=000000)](https://github.com/onlyroddytech)
 [![Status](https://img.shields.io/badge/Status-Shipping_Daily-3b82f6?style=for-the-badge&labelColor=000000)](https://github.com/onlyroddytech)
 
 <br/>
 
 I am a young African full-stack engineer and founder. Everything I build now runs on two arms:
-**[RshopRefill](https://rshoprefill.com)** on the consumer side, and **[Roddy Technologies Ltd](https://roddytechnologies.com)** (RLabs) on the business side.
+**[Roddy Technologies Ltd](https://roddytechnologies.com)** (RoddyLabs) on the business side, and **[RshopRefill](https://rshoprefill.com)** on the consumer side.
 
 I do not chase tools. I build **systems** that compound. Production-grade software that drives real revenue, not portfolio fluff. **I build for me first.** I am a lover of my code, my craft, my work of art.
 
@@ -35,7 +35,7 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
 - Full-stack engineer working primarily in **PHP, Laravel, Livewire, TypeScript, React, Next.js, Tailwind CSS, MySQL, and Redis**.
 - Ship mobile with **Flutter** and **React Native**, motion with **Framer Motion**, delivery with **Resend**, and observability with **Sentry**.
 - Founder of [**Roddy Technologies Ltd**](https://roddytechnologies.com), shipping commercial software in Cameroon and globally.
-- Two products, one system: **RshopRefill** sells to consumers, **RLabs** builds for businesses and gives developers a workspace to run their projects.
+- Two products, one system: **RoddyLabs** builds for businesses and gives developers a workspace to run their projects, **RshopRefill** sells to consumers.
 - Builder mindset: ship daily, iterate fast, monetize what works.
 - Always exploring new stacks, AI tooling, and automation to compound output.
 - *My best work lives in private repos. Real products ship, not just commits.*
@@ -57,16 +57,16 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://rshoprefill.com"><strong>RshopRefill</strong></a></td>
-      <td align="center"><img src="https://img.shields.io/badge/B2C-000000?style=flat-square&logo=shopify&logoColor=3b82f6"/></td>
-      <td>Digital marketplace: eSIMs, gift cards, top ups, bill payments, flights and stays</td>
-      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=flat-square"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://roddytechnologies.com"><strong>Roddy Technologies Ltd</strong></a><br/><sub>RLabs</sub></td>
+      <td><a href="https://roddytechnologies.com"><strong>Roddy Technologies Ltd</strong></a><br/><sub>RoddyLabs</sub></td>
       <td align="center"><img src="https://img.shields.io/badge/B2B-000000?style=flat-square&logo=cloudflare&logoColor=3b82f6"/></td>
       <td>Developer workspace for project development and management, plus domains, hosting, Roddy AI, and digital product APIs</td>
       <td align="center"><img src="https://img.shields.io/badge/%E2%97%8B%20IN%20DEV-000000?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://rshoprefill.com"><strong>RshopRefill</strong></a></td>
+      <td align="center"><img src="https://img.shields.io/badge/B2C-000000?style=flat-square&logo=shopify&logoColor=3b82f6"/></td>
+      <td>Digital marketplace: eSIMs, gift cards, top ups, and bill payments</td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
@@ -75,7 +75,7 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
 
 <br/>
 
-## What RLabs Delivers
+## What RoddyLabs Delivers
 
 <div align="center">
 
@@ -115,7 +115,7 @@ I do not chase tools. I build **systems** that compound. Production-grade softwa
     </tr>
     <tr>
       <td><strong>Developer APIs</strong></td>
-      <td>eSIMs, gift cards, top ups, bill payments, flights and stays</td>
+      <td>eSIMs, gift cards, top ups, and bill payments</td>
       <td align="center">Developers, resellers</td>
     </tr>
     <tr>
@@ -145,8 +145,6 @@ esims       ::  global and regional data plans, instant activation
 giftcards   ::  global and regional brand catalogue
 topups      ::  airtime and mobile data
 bills       ::  utilities, subscriptions, services
-flights     ::  search, book, ticket
-stays       ::  hotels and accommodation
 
 auth        ::  bearer token
 transport   ::  REST + JSON, webhook callbacks
@@ -252,10 +250,10 @@ access      ::  hello@roddytechnologies.com
 ```bash
 $ roddy --status
 
-[live]    RshopRefill (B2C)             ::  digital marketplace, scaling users and volume
 [dev]     Roddy Technologies Ltd (B2B)  ::  developer workspace, client builds, domains, hosting
+[live]    RshopRefill (B2C)             ::  digital marketplace, scaling users and volume
 [dev]     Roddy AI                      ::  AI tooling and automation across the stack
-[dev]     Developer APIs                ::  esims, giftcards, topups, bills, flights, stays
+[dev]     Developer APIs                ::  esims, giftcards, topups, bills
 [open]    Client projects               ::  businesses, startups, students, developers
 
 focus   ::  two arms, one system
@@ -288,8 +286,8 @@ mode    ::  build, ship, iterate
 ## Mission, FY 2026
 
 ```
-01.  Scale RshopRefill volume and repeat buyers on the B2C side
-02.  Grow Roddy Technologies Ltd into a dependable B2B software partner
+01.  Grow Roddy Technologies Ltd into a dependable B2B software partner
+02.  Scale RshopRefill volume and repeat buyers on the B2C side
 03.  Ship Developer APIs and onboard the first paying integrators
 04.  Launch Roddy AI into client products and internal workflows
 05.  Deliver, monitor, and retain more client projects

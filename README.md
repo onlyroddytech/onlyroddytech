@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://roddytechnologies.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&duration=2800&color=3B82F6&background=060607&center=true&vCenter=true&width=860&height=80&lines=I+am+Divine+Ofeh;Founder+%C2%B7+Roddy+Technologies+Ltd;Roddy+Labs+%C2%B7+Roddy+AI+%C2%B7+RShopRefill;Code.+Ship.+Iterate.+Scale." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&duration=2800&color=3B82F6&background=060607&center=true&vCenter=true&width=860&height=80&lines=I+am+Divine+Ofeh;Founder+%C2%B7+Roddy+Technologies+Ltd;Roddy+Labs+%C2%B7+RShopRefill+%C2%B7+Roddy+Intelligence;Code.+Ship.+Iterate.+Scale." alt="typing" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 <br/>
 
-### Roddy Technologies Ltd
+### Roddy Technologies
 
 **An African technology company, building from Cameroon for regional and global markets.**
 
@@ -27,8 +27,12 @@ We are not building disconnected projects. We are building a connected ecosystem
 
 <br/>
 
-[![RShopRefill](https://img.shields.io/badge/FLAGSHIP-RSHOPREFILL-3b82f6?style=for-the-badge&labelColor=060607)](#rshoprefill)
-[![Roddy Labs](https://img.shields.io/badge/PLATFORM-RODDY_LABS-060607?style=for-the-badge&labelColor=060607)](#roddy-labs)
+[![Roddy Technologies](https://img.shields.io/badge/%E2%97%8F%20LIVE-RODDY_TECHNOLOGIES-3b82f6?style=for-the-badge&labelColor=060607)](https://roddytechnologies.com)
+[![Roddy Labs](https://img.shields.io/badge/%E2%97%8F%20LIVE-RODDY_LABS-3b82f6?style=for-the-badge&labelColor=060607)](#roddy-labs)
+[![RShopRefill](https://img.shields.io/badge/%E2%97%8F%20LIVE-RSHOPREFILL-3b82f6?style=for-the-badge&labelColor=060607)](#rshoprefill)
+[![Roddy Intelligence](https://img.shields.io/badge/%E2%97%8F%20LIVE-RODDY_INTELLIGENCE-3b82f6?style=for-the-badge&labelColor=060607)](#roddy-intelligence)
+[![Roddy B2B](https://img.shields.io/badge/%E2%97%8B%20PLANNED-RODDY_B2B-060607?style=for-the-badge&labelColor=060607)](#roddy-b2b)
+[![Roddy Developer API](https://img.shields.io/badge/%E2%97%8B%20PLANNED-RODDY_DEVELOPER_API-060607?style=for-the-badge&labelColor=060607)](#developer-api)
 
 </div>
 
@@ -37,16 +41,16 @@ We are not building disconnected projects. We are building a connected ecosystem
 ## The Short Version
 
 **What is Roddy Technologies?**
-Roddy Technologies Ltd is the parent technology company and corporate brand. [roddytechnologies.com](https://roddytechnologies.com) is the public corporate website and the entry point into the company's ecosystem. The company operates three products: **Roddy Labs**, the operational platform; **Roddy AI**, the intelligence and automation layer; and **RShopRefill**, the consumer-facing digital marketplace.
+Roddy Technologies Ltd is the parent technology company and corporate brand. [roddytechnologies.com](https://roddytechnologies.com) is the public corporate website and the entry point into the company's ecosystem. **Roddy Technologies, Roddy Labs, RShopRefill, and Roddy Intelligence are live. Roddy B2B and the Roddy Developer API are planned.**
 
 **What problem is it solving?**
 Across many African markets, digital access and digital infrastructure are still harder and more expensive than they should be. Consumers struggle to reliably buy and pay for everyday digital goods. Developers, students, startups, and small businesses struggle to find affordable hosting, domains, tooling, and a competent development team in one place. Most available options are fragmented, imported, priced for other markets, or unsupported locally. We are building the layer that closes that gap.
 
 **What has already been built?**
-**[RShopRefill](https://rshoprefill.com) is the company's flagship, and today its only live product.** It is the consumer marketplace, with its catalogue currently focused on digital gift cards, travel eSIMs, mobile airtime, data bundles, and bill-payment services. Alongside it, custom software development and project delivery is an active, revenue-generating line of work, and the corporate website serves as the company's public entry point. Roddy Labs, Roddy AI, and the developer API are in development or planned, and are not yet available.
+**Roddy Technologies, Roddy Labs, RShopRefill, and Roddy Intelligence are live. Roddy B2B and the Roddy Developer API are planned.** RShopRefill is the company's flagship consumer marketplace for digital gift cards, travel eSIMs, mobile airtime, data bundles, and bill-payment services. Custom software development and project delivery are active, revenue-generating services.
 
-**What is being built next?**
-Roddy Labs as a connected workspace for building and managing digital projects. Roddy AI as an assistance and automation layer across the ecosystem. A developer API that will let approved developers and businesses integrate selected existing Roddy products and services into their own applications.
+**What is coming next?**
+We are developing Roddy B2B as a planned business offering. The planned Roddy Developer API will let approved developers and businesses integrate selected existing Roddy products and services into their own applications.
 
 **Why can this become a meaningful technology company?**
 Because each part strengthens the others. RShopRefill provides the consumer distribution layer and the supplier relationships. Roddy Labs provides the operational, infrastructure, development, and B2B layer. Roddy AI provides assistance and automation across both. Shared technology, supplier integrations, infrastructure, and operational knowledge compound over time instead of being rebuilt per project.
@@ -74,25 +78,31 @@ Founder and CEO **Divine Ofeh** at [divine@roddytechnologies.com](mailto:divine@
       <td><a href="https://roddytechnologies.com"><strong>Roddy Technologies Ltd</strong></a><br/><sub>Corporate</sub></td>
       <td align="center"><img src="https://img.shields.io/badge/PARENT-060607?style=flat-square&logo=cloudflare&logoColor=3b82f6"/></td>
       <td>Parent company and corporate brand. The corporate website is the public entry point into the ecosystem</td>
-      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8B%20IN%20DEV-060607?style=flat-square"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=flat-square"/></td>
     </tr>
     <tr>
       <td><a href="#roddy-labs"><strong>Roddy Labs</strong></a><br/><sub>Operational platform</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/B2B-060607?style=flat-square&logo=docker&logoColor=3b82f6"/></td>
-      <td><strong>The operational core.</strong> Powers services, dashboards, projects, infrastructure, tools, and workflows across the ecosystem</td>
-      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8B%20IN%20DEV-060607?style=flat-square"/></td>
-    </tr>
-    <tr>
-      <td><a href="#roddy-ai"><strong>Roddy AI</strong></a><br/><sub>Intelligence</sub></td>
-      <td align="center"><img src="https://img.shields.io/badge/AI-060607?style=flat-square&logo=openai&logoColor=3b82f6"/></td>
-      <td>Intelligence and automation layer assisting users with tasks, projects, workflows, and automation</td>
-      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8B%20IN%20DEV-060607?style=flat-square"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/PLATFORM-060607?style=flat-square&logo=docker&logoColor=3b82f6"/></td>
+      <td>Live technology platform supporting the company's services, products, and workflows</td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=flat-square"/></td>
     </tr>
     <tr>
       <td><a href="https://rshoprefill.com"><strong>RShopRefill</strong></a><br/><sub>★ Flagship · Marketplace</sub></td>
       <td align="center"><img src="https://img.shields.io/badge/B2C-3b82f6?style=flat-square&logo=shopify&logoColor=ffffff"/></td>
-      <td><strong>The flagship product, and the only one live today.</strong> Consumer digital marketplace: gift cards, travel eSIMs, airtime, data bundles, and bill payments</td>
+      <td><strong>The flagship live product.</strong> Consumer digital marketplace: gift cards, travel eSIMs, airtime, data bundles, and bill payments</td>
       <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="#roddy-intelligence"><strong>Roddy Intelligence</strong></a><br/><sub>AI and automation</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/AI-060607?style=flat-square&logo=openai&logoColor=3b82f6"/></td>
+      <td>Intelligence and automation layer assisting users with tasks, projects, workflows, and automation</td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="#roddy-b2b"><strong>Roddy B2B</strong></a><br/><sub>Business offering</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/B2B-060607?style=flat-square&logo=docker&logoColor=3b82f6"/></td>
+      <td>Planned B2B services and tools for business customers</td>
+      <td align="center"><img src="https://img.shields.io/badge/%E2%97%8B%20PLANNED-060607?style=flat-square"/></td>
     </tr>
     <tr>
       <td><a href="#developer-api"><strong>Roddy Developer API</strong></a><br/><sub>Integration</sub></td>
@@ -103,7 +113,7 @@ Founder and CEO **Divine Ofeh** at [divine@roddytechnologies.com](mailto:divine@
   </tbody>
 </table>
 
-<sub><strong>RShopRefill is the only product live today.</strong> Everything else is in development or planned.</sub>
+<sub><strong>Live:</strong> Roddy Technologies, Roddy Labs, RShopRefill, and Roddy Intelligence. <strong>Planned:</strong> Roddy B2B and Roddy Developer API.</sub>
 
 </div>
 
@@ -135,17 +145,18 @@ Each of these is a distribution problem as much as a technology problem. Solving
 
 [![Roddy Labs](https://img.shields.io/badge/RODDY%20LABS-060607?style=for-the-badge&logoColor=ffffff&labelColor=060607)](#roddy-labs)
 [![Operational Platform](https://img.shields.io/badge/OPERATIONAL%20PLATFORM-060607?style=for-the-badge&labelColor=060607)](#roddy-labs)
-[![In Development](https://img.shields.io/badge/%E2%97%8B%20IN%20DEVELOPMENT-060607?style=for-the-badge&labelColor=060607)](#roddy-labs)
+[![Live](https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=for-the-badge&labelColor=060607)](#roddy-labs)
 
 ### The operational core of the ecosystem
 
-The platform powering the company's services, dashboards, projects,<br/>
+The live operational platform for the company's services, dashboards, projects,<br/>
 infrastructure, tools, and workflows.
 
 </div>
 
-```
-           clients · developers · students · startups · teams
+<div align="center"><table align="center"><tr><td>
+<pre>
+                   clients · developers · students · startups · teams
                                    │
                                    ▼
                   ╔═════════════════════════════════╗
@@ -153,13 +164,15 @@ infrastructure, tools, and workflows.
                   ║      the operational core       ║
                   ╚═════════════════════════════════╝
                                    │
-      ┌─────────────┬──────────────┼──────────────┬─────────────┐
-      ▼             ▼              ▼              ▼             ▼
-   projects      hosting        domains      developer      Roddy AI
-  & delivery     & infra         & DNS         tools      & automation
-```
+       ┬─────────────┬─────────────┼─────────────┬─────────────┬
+       │             │             │             │             │
+       ▼             ▼             ▼             ▼             ▼
+   projects      hosting        domains       developer      Roddy AI
+  & delivery     & infra         & DNS          tools      & automation
+</pre>
+</td></tr></table></div>
 
-Roddy Labs is being built as a connected workspace where developers, businesses, startups, organisations, individuals, and students can run their digital work end to end, in one place, instead of assembling it from a dozen unrelated vendors.
+Roddy Labs is a live connected workspace where developers, businesses, startups, organisations, individuals, and students can manage digital projects, infrastructure, tools, and workflows in one place.
 
 Every other part of the company runs through it. Client projects are built and delivered on it. RShopRefill's infrastructure sits behind it. Roddy AI is surfaced inside it. That is what makes this an ecosystem rather than a portfolio of unrelated products.
 
@@ -243,7 +256,7 @@ Every other part of the company runs through it. Client projects are built and d
 [![Flagship](https://img.shields.io/badge/%E2%98%85%20FLAGSHIP%20PRODUCT-060607?style=for-the-badge&labelColor=060607)](#rshoprefill)
 [![Live](https://img.shields.io/badge/%E2%97%8F%20LIVE-3b82f6?style=for-the-badge&labelColor=060607)](https://rshoprefill.com)
 
-### Our flagship, and the only product live today
+### Our flagship live product
 
 The consumer-facing digital marketplace,<br/>
 and the distribution layer of the ecosystem.
@@ -295,13 +308,13 @@ RShopRefill is live and generating revenue. It is where the company earns today,
 
 <br/>
 
-## Roddy AI
+## Roddy Intelligence
 
 **The intelligence and automation layer across the ecosystem.**
 
-Roddy AI is being built to assist developers, businesses, startups, organisations, students, internal company teams, and other users with tasks, projects, workflows, and automation. It is designed to sit inside Roddy Labs and the company's own operations rather than to exist as a standalone novelty, so that the same assistance layer serves client projects, internal delivery, and end users.
+Roddy Intelligence assists developers, businesses, startups, organisations, students, internal company teams, and other users with tasks, projects, workflows, and automation. It is designed to sit inside Roddy Labs and the company's own operations rather than to exist as a standalone novelty, so that the same assistance layer serves client projects, internal delivery, and end users.
 
-Roddy AI is in development and is not yet generally available.
+Roddy Intelligence is live as the intelligence and automation layer across the ecosystem.
 
 <br/>
 
@@ -433,12 +446,13 @@ The order matters. We would rather deepen what already works and earn trust in t
 ```bash
 $ roddy --status
 
-[live]    RShopRefill (B2C)             ::  ★ flagship product, the only one live today
-[dev]     Corporate website             ::  public entry point into the ecosystem
-[dev]     Roddy Labs (B2B)              ::  workspace, dashboards, infrastructure, operational tools
-[dev]     Roddy AI                      ::  assistance and automation across the ecosystem
-[plan]    Developer API                 ::  approved access to supported products
-[open]    Client projects               ::  businesses, startups, students, developers
+[live]    Roddy Technologies            ::  corporate brand and public website
+[live]    Roddy Labs                    ::  operational platform
+[live]    RShopRefill (B2C)             ::  ★ flagship digital marketplace
+[live]    Roddy Intelligence            ::  assistance and automation across the ecosystem
+[plan]    Roddy B2B                     ::  business offering and tools
+[plan]    Roddy Developer API            ::  approved access to supported products
+[live]    Client projects               ::  businesses, startups, students, developers
 
 focus   ::  one ecosystem, not separate projects
 uptime  ::  shipping daily
@@ -685,6 +699,7 @@ Custom software, integrations, hosting, domains, and long-term technology partne
 
 <br/>
 
-<sub><i>Updated on</i> <code>2026-08-14</code></sub>
+<sub><i>Updated on</i> <code>2026-10-15</code></sub>
 
 </div>
+

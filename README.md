@@ -21,7 +21,7 @@
 
 ### Roddy Technologies
 
-**An African technology company, building from Cameroon for regional and global markets.**
+**An African technology company, building from Cameroon, Nigeria for regional and global markets.**
 
 We are not building disconnected projects. We are building a connected ecosystem.
 
